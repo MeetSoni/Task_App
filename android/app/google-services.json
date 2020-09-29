@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314181280265",
+    "firebase_url": "https://linuxos-c657c.firebaseio.com",
+    "project_id": "linuxos-c657c",
+    "storage_bucket": "linuxos-c657c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314181280265:android:45e3d419dc09403dbe0ed8",
+        "android_client_info": {
+          "package_name": "com.meets.LinuxOS_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314181280265-spfsao9nlj84lk9jdbt9ba67d62a14ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSVsKbH68sYq9UeO9PS4_KV1UOih7s3wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314181280265-spfsao9nlj84lk9jdbt9ba67d62a14ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
